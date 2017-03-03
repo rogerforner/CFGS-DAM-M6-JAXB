@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Artistes>
+    <Artista dni="47839865A">
+        <nom>Compay Segundo</nom>
+        <popular>Chan Chan</popular>
+        <spotify>spotify:artist:2wpr4ILskkRzPBGodmbMs1</spotify>
+    </Artista>
+    <Artista dni="43824238B">
+        <nom>María Parrado</nom>
+        <popular>Qué hay más allá</popular>
+        <spotify>spotify:artist:41sqYvXOn3ATsAQ65G1zx6</spotify>
+    </Artista>
+    <Artista dni="43824239B">
+        <nom>Marc Ullod</nom>
+        <popular>De nada</popular>
+        <spotify>spotify:artist:2kqMVjunEYElBol7Bbw1Ig</spotify>
+    </Artista>
+    <Artista dni="43864359B">
+        <nom>Opetaia Foa'i</nom>
+        <popular>We know The Way</popular>
+        <spotify>spotify:artist:759h9uEwoHm8KKq1pGI9RH</spotify>
+    </Artista>
+    <Artista dni="46874359B">
+        <nom>Israel Kamakawiwo'ole</nom>
+        <popular>Over The Rainbow</popular>
+        <spotify>spotify:artist:4ogvuDRerGhZfSf7TtzHlr</spotify>
+    </Artista>
+    <Artista dni="46874569C">
+        <nom>Bill Withers</nom>
+        <popular>Ain't No Sunshine</popular>
+        <spotify>spotify:artist:1ThoqLcyIYvZn7iWbj8fsj</spotify>
+    </Artista>
+    <Artista dni="46874559C">
+        <nom>dddd</nom>
+        <popular></popular>
+        <spotify></spotify>
+    </Artista>
+</Artistes>
